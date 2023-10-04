@@ -1,0 +1,2 @@
+# Google_Earth_Engine_Starter
+Google_Earth_Engine_Starter for new-comers
