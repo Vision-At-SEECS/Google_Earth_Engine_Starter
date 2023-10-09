@@ -60,7 +60,7 @@ Here's a quick overview of the repository's folder structure:
 
 ## Contributing
 
-We welcome contributions to this Starter Pack! If you have additional video tutorials, code examples, or improvements to the documentation, please consider contributing. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+We welcome contributions to this Starter Pack! If you have additional video tutorials, code examples, or improvements to the documentation, please consider contributing. Please contact the MachVIS lab administration for guidelines on how to contribute.
 
 ## License
 
