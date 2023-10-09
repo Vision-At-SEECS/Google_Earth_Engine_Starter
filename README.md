@@ -21,7 +21,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 1: Introduction & Image Filtering
 
-<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/77d6c2bb-4f4a-4707-99ee-9d876a99d15f alt="Image Alt Text" width="300" />
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/77d6c2bb-4f4a-4707-99ee-9d876a99d15f alt="Image Alt Text" width="750" />
 
 - Learn the basics of Google Earth Engine.
 - Explore image filtering techniques.
@@ -30,7 +30,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 2: Manipulating Images For Calculations
 
-<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/25c0b974-facd-4ea4-aa09-cceee8c32ed7 alt="Image Alt Text" width="300" />
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/25c0b974-facd-4ea4-aa09-cceee8c32ed7 alt="Image Alt Text" width="750" />
 
 - Dive deeper into image manipulation for calculations.
 - Discover advanced techniques for image processing.
@@ -39,7 +39,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 3: Importing & Exporting Raster or Vector Data
 
-<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/f9cab01a-cc1a-405e-a5f4-32160e76afa8 alt="Image Alt Text" width="300" />
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/f9cab01a-cc1a-405e-a5f4-32160e76afa8 alt="Image Alt Text" width="750" />
 
 - Explore how to import and export raster or vector data.
 - Learn about data formats and visualization.
