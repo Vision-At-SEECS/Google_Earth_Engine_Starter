@@ -21,7 +21,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 1: Introduction & Image Filtering
 
-![visualization1](https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/77d6c2bb-4f4a-4707-99ee-9d876a99d15f)
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/77d6c2bb-4f4a-4707-99ee-9d876a99d15f alt="Image Alt Text" width="300" />
 
 - Learn the basics of Google Earth Engine.
 - Explore image filtering techniques.
