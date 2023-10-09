@@ -1,6 +1,6 @@
 # Google Earth Engine Starter Pack
 
-Welcome to the Google Earth Engine Starter Pack! This repository is designed to help you get started with Google Earth Engine (GEE) by providing a series of video tutorials and JavaScript code examples. Whether you're a beginner looking to explore remote sensing data or an experienced user seeking to expand your skills, this resource is tailored to meet your needs.
+Welcome to the Google Earth Engine Starter Pack! This repository is designed to help you get started with Google Earth Engine (GEE) by providing a series of video tutorials and JavaScript code examples. In case you are a beginner looking to explore remote sensing data on a powerful platform or just simply seeking to expand your skills, this resource is tailored to meet your needs.
 
 ## Table of Contents
 
