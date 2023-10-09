@@ -25,7 +25,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 - Learn the basics of Google Earth Engine.
 - Explore image filtering techniques.
-- [Watch Video 1](https://drive.google.com/file/d/1Ld2t9lxQcP0JXUQz0GjVZ18ir_YQ5yGb/view?usp=sharing)
+- [Watch Video 1](https://drive.google.com/file/d/1dLxzy2zyHKTQJMbiQsemuOHgRWIgu5m0/view?usp=sharing)
 - [Code and Documentation](https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/tree/main/Image%20Filtering)
 
 ### Video 2: Manipulating Images For Calculations
