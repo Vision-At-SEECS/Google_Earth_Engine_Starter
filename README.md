@@ -54,9 +54,9 @@ Feel free to explore the videos and code examples at your own pace. Each folder 
 
 Here's a quick overview of the repository's folder structure:
 
-- `/Video1_Introduction_Image_Filtering`: Code and documentation for Video 1.
-- `/Video2_Manipulating_Images`: Code and documentation for Video 2.
-- `/Video3_Importing_Exporting_Data`: Code and documentation for Video 3.
+- `/Image_Filtering`: Code and documentation for Video 1.
+- `/Image_Manipulation`: Code and documentation for Video 2.
+- `/Data Handling`: Code and documentation for Video 3.
 
 ## Contributing
 
