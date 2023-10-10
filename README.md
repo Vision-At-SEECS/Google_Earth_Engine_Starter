@@ -30,7 +30,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 2: Manipulating Images For Calculations
 
-<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/25c0b974-facd-4ea4-aa09-cceee8c32ed7 alt="Image Alt Text" width="700" />
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/blob/main/Image%20Manipulation/visualization.png alt="Image Alt Text" width="700" />
 
 - Dive deeper into image manipulation for calculations.
 - Discover advanced techniques for image processing.
