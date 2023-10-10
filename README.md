@@ -39,7 +39,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 ### Video 3: Importing & Exporting Raster or Vector Data
 
-<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/assets/41828100/f9cab01a-cc1a-405e-a5f4-32160e76afa8 alt="Image Alt Text" width="700" />
+<img src=https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/41828100/f9cab01a-cc1a-405e-a5f4-32160e76afa8 alt="Image Alt Text" width="700" />
 
 - Explore how to import and export raster or vector data.
 - Learn about data formats and visualization.
