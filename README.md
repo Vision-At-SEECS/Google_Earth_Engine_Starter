@@ -51,8 +51,8 @@ We've created a series of video tutorials to guide you through various aspects o
 To get started with Google Earth Engine using this Starter Pack, follow these steps:
 
 1. Clone or download this repository to your local machine.
-2. Choose the video tutorial you want to explore and navigate to its respective folder.
-3. Inside each video folder, you'll find JavaScript code examples along with detailed instructions and explanations.
+2. Choose the tutorial you want to explore and navigate to its respective folder.
+3. Inside each folder, you'll find JavaScript code examples along with detailed instructions and explanations.
 
 Feel free to explore the videos and code examples at your own pace. Each folder contains all the resources you need to follow along.
 
