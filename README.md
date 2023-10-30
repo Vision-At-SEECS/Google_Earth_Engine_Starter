@@ -25,7 +25,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 - Learn the basics of Google Earth Engine.
 - Explore image filtering techniques.
-- [Watch Video 1](https://drive.google.com/file/d/1dLxzy2zyHKTQJMbiQsemuOHgRWIgu5m0/view?usp=sharing)
+- [Watch Video 1](https://www.youtube.com/watch?v=PLqXnRS0uho)
 - [Code and Documentation](https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/tree/main/Image%20Filtering)
 
 ### Video 2: Manipulating Images For Calculations
@@ -34,7 +34,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 - Dive deeper into image manipulation for calculations.
 - Discover advanced techniques for image processing.
-- [Watch Video 2](https://drive.google.com/file/d/1Ld2t9lxQcP0JXUQz0GjVZ18ir_YQ5yGb/view?usp=sharing)
+- [Watch Video 2](https://www.youtube.com/watch?v=Jbv6-1TwoYw)
 - [Code and Documentation](https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/tree/main/Image%20Manipulation)
 
 ### Video 3: Importing & Exporting Raster or Vector Data
@@ -43,7 +43,7 @@ We've created a series of video tutorials to guide you through various aspects o
 
 - Explore how to import and export raster or vector data.
 - Learn about data formats and visualization.
-- [Watch Video 3](https://drive.google.com/file/d/1A8llQjzWwXwRv1l_9nIiP3WJJ2_YaaWa/view?usp=sharing)
+- [Watch Video 3](https://www.youtube.com/watch?v=Lqz7XVHlZMA)
 - [Code and Documentation](https://github.com/Vision-At-SEECS/Google_Earth_Engine_Starter/tree/main/Data%20Handling)
 
 ## Getting Started
